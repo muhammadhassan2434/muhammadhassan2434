@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hass-an07" alt="hass-an07" /></a> </p>
 
-- 🔭 I’m currently working on [Mx billpay]([https://viuz.co/](https://mxbillpay.hmstech.org/))
+- 🔭 I’m currently working on [Mx billpay]([https://mxbillpay.hmstech.org/])
 
 - 🌱 I’m currently learning **Python**
 
