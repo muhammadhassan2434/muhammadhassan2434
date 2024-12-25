@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hass-an07" alt="hass-an07" /></a> </p>
 
-- 🔭 I’m currently working on [Mx billpay]([https://mxbillpay.hmstech.org/])
+- 🔭 I’m currently working on [Multi vendor E-commerce]([https://lot24.ma/])
 
 - 🌱 I’m currently learning **Python**
 
 - 👯 I’m looking to collaborate on **Laravel Projects**
 
-- 🤝 I’m looking for help with **Inertia js**
+- 🤝 I’m looking for help with **React js**
 
 - 💬 Ask me about **React js, Inertia js and laravel**
 
