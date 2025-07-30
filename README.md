@@ -33,6 +33,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hass-an07&show_icons=true&locale=en&layout=compact" alt="hass-an07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hass-an07&" alt="hass-an07" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muhammadhassan2434)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=muhammadhassan2434" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=hass-an07)](https://git.io/streak-stats)
+
 
