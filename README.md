@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Full Stack developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hass-an07&label=Profile%20views&color=0e75b6&style=flat" alt="hass-an07" /> </p>
-🔭 I’m currently working on Bewonersbrief<br><br>🌱 I’m currently learning Python<br><br>👯 I’m looking to collaborate on Laravel Projects<br><br>🤝 I’m looking for help with React js<br><br>💬 Ask me about React js, Inertia js and laravel<br><br>📫 How to reach me hsdevelopers08@gmail.com<br><br>⚡ Fun fact Eloquent magic!
+🔭 I’m currently working on Bewonersbrief<br><br>🌱 I’m currently learning Crm and AI automation<br><br>👯 I’m looking to collaborate on Laravel Projects<br><br>🤝 I’m looking for help with React js<br><br>💬 Ask me about React js, Inertia js and laravel<br><br>📫 How to reach me hsdevelopers08@gmail.com<br><br>⚡ Fun fact Eloquent magic!
 
 
 ## 🌐 Socials:
